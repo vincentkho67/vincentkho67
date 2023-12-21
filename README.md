@@ -1,6 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on Rakamin Academy as a Backend Developer Intern<br>🌱 BINUS Online Learning Bachelor Degree of Computer Science 3.94 / 4.00
-
+# 🌱 Hello there! <br>
+I'm an active student at BINUS Online Learning currently pursue a Bachelor degree of Computer Science with a total GPA of 3.94/4.00 <br>
+Currently working at Rakamin Academy as a Backend Developer Intern who use Ruby on Rails to enhance and creating new features while implementing a clean architecture design
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vincentkhooo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vincent-kho-5b679625a/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cloud9x) 
