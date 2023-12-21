@@ -11,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=vincentkho67&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vincentkho67&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentkho67&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![image](https://github.com/vincentkho67/vincentkho67/assets/122125309/281ac202-8f52-4da1-be88-f2d92bd56060)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vincentkho67&limit=5&theme=dark&combine_all_yearly_contributions=true)
