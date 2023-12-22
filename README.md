@@ -6,14 +6,13 @@ Currently working at Rakamin Academy as a Backend Developer Intern who use Ruby 
 <br>
 This is my final project app named "WareHub" it's an Inventory Management App https://github.com/Final-Projects-4
 <br>
-I'm a dark theme fan, so my app must have it also <br>
-![image](https://github.com/vincentkho67/vincentkho67/assets/122125309/034ddb26-7e52-443a-9d54-a270cbaa3426)
-<br>
-of course it have the light theme also
+which won the best final project on the program<br>
+quick look:
+![image](https://github.com/vincentkho67/vincentkho67/assets/122125309/363feb5b-c444-41e0-b7ad-da8619d27bd3)
 <br>
 ![image](https://github.com/vincentkho67/vincentkho67/assets/122125309/9240d1d2-15bc-44c8-a5d5-d14e8a9d295a)
-
-
+<br>
+I would showcase all the features and host the documentation soon!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vincentkhooo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-kho-5b679625a/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cloud9x) 
