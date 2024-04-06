@@ -1,6 +1,3 @@
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vincentkho67&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 # 💫 About Me:
 🔭 I’m currently working on Enigma Camp as Jr. Trainer
 
