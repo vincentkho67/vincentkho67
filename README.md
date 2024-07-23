@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Enigma Camp as Jr. Trainer
+🔭 I’m currently working on Enigma Camp as an IT Instructor
 
 # 💻 Tech Stack:
 ### Languages
