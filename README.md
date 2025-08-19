@@ -37,16 +37,3 @@ Creative agency portfolio with 3D showcase gallery
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-
-## Achievements
-- Reduced service startup time by 99.98% using GraalVM
-- Optimized CSV processing from 30+ minutes to 2 minutes
-- Implemented real-time video conferencing infrastructure
-- Built fault-tolerant storage with 99.9% availability
-
-## Currently Learning
-- Advanced system design patterns
-- Cloud-native architectures
-- Performance optimization techniques
-
-[LinkedIn]((https://www.linkedin.com/in/vincent-kho-5b679625a/)) 
