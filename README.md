@@ -49,5 +49,4 @@ Creative agency portfolio with 3D showcase gallery
 - Cloud-native architectures
 - Performance optimization techniques
 
-[LinkedIn]([your-linkedin](https://www.linkedin.com/in/vincent-kho-5b679625a/)) 
-[Portfolio]([https://www.fadedlinesbarbershop.com, https://www.milkyano.com/])
+[LinkedIn]((https://www.linkedin.com/in/vincent-kho-5b679625a/)) 
